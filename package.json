@@ -1,6 +1,6 @@
 {
-  "name": "com.google.playservices",
-  "version": "49.0.0",
+  "name": "cordova-plugin-goole-play-services-ads",
+  "version": "1.0.0",
   "cordova": {
     "id": "com.google.playservices",
     "platforms": [
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fgsoftware1/cordova-plugin-goole-play-services-ads.git"
+    "url": "git+https://github.com/fgsoftware1/cordova-plugin-goole-play-services-ads.git"
   },
   "keywords": [
     "ecosystem:cordova",
@@ -27,5 +27,14 @@
     "url": "https://github.com/fgsoftware1/cordova-plugin-goole-play-services-ads/issues"
   },
   "homepage": "https://github.com/fgsoftware1/cordova-plugin-goole-play-services-ads#readme",
+  "dependencies": {
+    "bower": "^1.8.12",
+    "yarn": "^1.22.10"
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "description": ""
 }
