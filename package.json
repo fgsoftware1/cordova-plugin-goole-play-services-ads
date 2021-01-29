@@ -1,0 +1,31 @@
+{
+  "name": "com.google.playservices",
+  "version": "49.0.0",
+  "cordova": {
+    "id": "com.google.playservices",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fgsoftware1/cordova-plugin-goole-play-services-ads.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Gabriel Aguiar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fgsoftware1/cordova-plugin-goole-play-services-ads/issues"
+  },
+  "homepage": "https://github.com/fgsoftware1/cordova-plugin-goole-play-services-ads#readme",
+  "description": ""
+}
