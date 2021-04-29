@@ -36,5 +36,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "description": ""
+  "description": "google play services ads for cordova"
 }
