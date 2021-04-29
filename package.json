@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-goole-play-services-ads",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "cordova": {
     "id": "com.google.playservices",
     "platforms": [
