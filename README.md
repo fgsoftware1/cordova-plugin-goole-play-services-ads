@@ -1,0 +1,1 @@
+#google play services ads for cordova
