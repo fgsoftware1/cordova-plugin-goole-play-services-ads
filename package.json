@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-goole-play-services-ads",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "cordova": {
     "id": "com.google.playservices",
     "platforms": [
@@ -9,7 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fgsoftware1/cordova-plugin-goole-play-services-ads.git"
+    "url": "git://github.com/fgsoftware1/cordova-plugin-goole-play-services-ads.git"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
   },
   "keywords": [
     "ecosystem:cordova",
