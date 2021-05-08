@@ -10,7 +10,10 @@
   "repositiry": "git://github.com/fgsoftware1/cordova-plugin-goole-play-services-ads.git",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fgsoftware1/cordova-plugin-goole-play-services-ads.git"
+    "url": "git://github.com/fgsoftware1/cordova-plugin-goole-play-services-ads.git"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
   },
   "keywords": [
     "ecosystem:cordova",
