@@ -35,5 +35,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "description": "google play services ads for cordova"
+  "description": "google play services ads for cordova",
+  "dependencies": {
+    "yarn": "^1.22.10"
+  }
 }
