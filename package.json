@@ -1,16 +1,13 @@
 {
   "name": "cordova-plugin-goole-play-services-ads",
-  "version": "1.0.6",
+  "version": "1.0.0",
   "cordova": {
     "id": "com.google.playservices",
     "platforms": [
       "android"
     ]
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/fgsoftware1/cordova-plugin-goole-play-services-ads.git"
-  },
+  "repository": "https://github.com/fgsoftware1/cordova-plugin-goole-play-services-ads.git",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
@@ -30,7 +27,7 @@
     "url": "https://github.com/fgsoftware1/cordova-plugin-goole-play-services-ads/issues"
   },
   "homepage": "https://github.com/fgsoftware1/cordova-plugin-goole-play-services-ads#readme",
-  "main": "index.js",
+  "main": "plugin.xml",
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -38,5 +35,6 @@
   "description": "google play services ads for cordova",
   "dependencies": {
     "yarn": "^1.22.10"
-  }
+  },
+  "private": false
 }
