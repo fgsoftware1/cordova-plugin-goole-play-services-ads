@@ -7,7 +7,6 @@
       "android"
     ]
   },
-  "repositiry": "git://github.com/fgsoftware1/cordova-plugin-goole-play-services-ads.git",
   "repository": {
     "type": "git",
     "url": "https://github.com/fgsoftware1/cordova-plugin-goole-play-services-ads.git"
