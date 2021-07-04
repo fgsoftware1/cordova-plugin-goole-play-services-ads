@@ -26,6 +26,7 @@
   "private": false,
   "dependencies": {
     "cordova": "^10.0.0",
-    "cordova-plugin-goole-play-services-ads": "^1.0.5"
+    "cordova-plugin-goole-play-services-ads": "^1.0.5",
+    "snyk": "^1.653.0"
   }
 }
