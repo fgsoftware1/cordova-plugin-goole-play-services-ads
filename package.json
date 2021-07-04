@@ -1,6 +1,6 @@
 {
   "name": "@fgsoftware1/cordova-plugin-goole-play-services-ads",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "cordova": {
     "id": "com.google.playservices",
     "platforms": [
@@ -22,10 +22,6 @@
   },
   "homepage": "https://github.com/fgsoftware1/cordova-plugin-goole-play-services-ads#readme",
   "main": "plugin.xml",
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "description": "google play services ads for cordova",
   "private": false
 }
