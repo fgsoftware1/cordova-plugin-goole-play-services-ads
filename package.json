@@ -25,6 +25,7 @@
   "description": "google play services ads for cordova",
   "private": false,
   "dependencies": {
+    "cordova": "^10.0.0",
     "cordova-plugin-goole-play-services-ads": "^1.0.5"
   }
 }
