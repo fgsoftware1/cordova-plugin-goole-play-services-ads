@@ -23,5 +23,8 @@
   "homepage": "https://github.com/fgsoftware1/cordova-plugin-goole-play-services-ads#readme",
   "main": "plugin.xml",
   "description": "google play services ads for cordova",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "cordova-plugin-goole-play-services-ads": "^1.0.5"
+  }
 }
