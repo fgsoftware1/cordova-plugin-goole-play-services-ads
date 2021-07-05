@@ -1,6 +1,6 @@
 {
   "name": "@fgsoftware1/cordova-plugin-goole-play-services-ads",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "cordova": {
     "id": "com.google.playservices",
     "platforms": [
@@ -25,7 +25,7 @@
   "description": "google play services ads for cordova",
   "private": false,
   "dependencies": {
-    "cordova": "^10.0.0",
+    "cordova": "^9.0.0",
     "cordova-plugin-goole-play-services-ads": "^1.0.5",
     "snyk": "^1.653.0"
   }
